@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+/core/commons/src/main/java/io/bloco/core/commons/endpoints/MilkyMoEndpoint.kt
